@@ -139,3 +139,4 @@
 * (relayer)[\#329](https://github.com/cosmos/relayer/issues/329) client, conenction, and channel handshake refactor (identifiers generated auto generated on-chain)
 * (relayer)[\#386](https://github.com/cosmos/relayer/pull/386) client, connection and channel identifier reuse
 [2025-03-25 18:15:19] Memperbarui dokumentasi di relayer
+[2025-03-25 18:15:22] Menambahkan fitur kecil di relayer
